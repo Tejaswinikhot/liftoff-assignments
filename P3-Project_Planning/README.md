@@ -2,7 +2,7 @@
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+https://github.com/Tejaswinikhot/liftoff-assignments/tree/master/P2-Project_Outline
 
 ## Submission Instructions
 
@@ -11,9 +11,8 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/8Rj0rbaR/organic-nutrition-recipes
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Tejaswinikhot/OrganicNutritionRecipe
