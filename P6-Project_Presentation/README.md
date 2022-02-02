@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+https://mystlcc-my.sharepoint.com/:p:/g/personal/tkhot_my_stlcc_edu/EeXr0Cu59UhMhQMtMak170ABmcUvOCowpSViub0Hp6j9Mw?e=OeecHC
